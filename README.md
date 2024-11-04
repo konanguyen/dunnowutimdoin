@@ -9,7 +9,7 @@
 > Auto build Aseprite via GitHub Actions
 
 > [!IMPORTANT]  
-> Only supports Windows x64
+> Only supports Windows x86_64
 
 ## Usage:
 
